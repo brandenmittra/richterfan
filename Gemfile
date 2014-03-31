@@ -8,6 +8,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
+gem 'font-awesome-rails'
+gem 'simple_form'
 
 group :development, :test do
      gem 'sqlite3'
